@@ -148,8 +148,5 @@ python app.py
 - **Sneha Karki**
 - **Roman Rendon**
 
-## 📝 License
-
-This project is provided for educational and demonstration purposes. No license is associated.
 
 OSPETAL: Hospital Appointment & Invoice Management GUI
