@@ -1,7 +1,5 @@
-# Screenshot
-
 # 🏥 Ospetal Hospital Management Database
-<img width="1597" height="1028" alt="Ospetal" src="https://github.com/user-attachments/assets/4f0d0985-4d5c-45a6-836b-c5946805a956" />
+
 
 
 The **Ospetal Hospital Management System** is a **MySQL-based database** designed to manage core hospital operations, including **patients**, **employees**, **departments**, **appointments**, and **services**.
@@ -9,6 +7,9 @@ The **Ospetal Hospital Management System** is a **MySQL-based database** designe
 This project is intended for educational and development purposes, featuring a full schema, sample data, and relational design.
 
 ---
+
+# Screenshot
+<img width="1597" height="1028" alt="Ospetal" src="https://github.com/user-attachments/assets/4f0d0985-4d5c-45a6-836b-c5946805a956" />
 
 ## 📊 Tables & Descriptions
 
