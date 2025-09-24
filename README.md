@@ -1,4 +1,4 @@
-#Screenshot
+# Screenshot
 
 # 🏥 Ospetal Hospital Management Database
 <img width="1597" height="1028" alt="Ospetal" src="https://github.com/user-attachments/assets/4f0d0985-4d5c-45a6-836b-c5946805a956" />
